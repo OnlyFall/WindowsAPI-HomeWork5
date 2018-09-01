@@ -1,0 +1,15 @@
+﻿  2017182007김우빈.cpp
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(67): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1295): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1305): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1313): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1322): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1330): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1341): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1349): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1357): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(1368): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(297): warning C4101: 'chardc' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 6\5 - 6\2017182007김우빈.cpp(338): warning C4101: 'hButton' :참조되지 않은 지역 변수입니다.
+  5 - 6.vcxproj -> C:\Users\김우빈\source\repos\5 - 6\x64\Debug\5 - 6.exe
+  5 - 6.vcxproj -> C:\Users\김우빈\source\repos\5 - 6\x64\Debug\5 - 6.pdb (Partial PDB)

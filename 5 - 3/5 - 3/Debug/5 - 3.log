@@ -1,0 +1,8 @@
+﻿  5 - 3.cpp
+c:\users\김우빈\source\repos\5 - 3\5 - 3\5 - 3.cpp(47): warning C4101: 'mybitmap3' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 3\5 - 3\5 - 3.cpp(47): warning C4101: 'mybitmap4' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 3\5 - 3\5 - 3.cpp(47): warning C4101: 'mybitmap2' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 3\5 - 3\5 - 3.cpp(47): warning C4101: 'oldBitmap4' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 3\5 - 3\5 - 3.cpp(47): warning C4101: 'oldBitmap2' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 3\5 - 3\5 - 3.cpp(47): warning C4101: 'oldBitmap3' :참조되지 않은 지역 변수입니다.
+  5 - 3.vcxproj -> C:\Users\김우빈\source\repos\5 - 3\Debug\5 - 3.exe

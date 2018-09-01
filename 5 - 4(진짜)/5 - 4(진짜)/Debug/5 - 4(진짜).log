@@ -1,0 +1,5 @@
+﻿  5 - 4.cpp
+c:\users\김우빈\source\repos\5 - 4(진짜)\5 - 4(진짜)\5 - 4.cpp(251): warning C4101: 'hbit4' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 4(진짜)\5 - 4(진짜)\5 - 4.cpp(250): warning C4101: 'kdc' :참조되지 않은 지역 변수입니다.
+c:\users\김우빈\source\repos\5 - 4(진짜)\5 - 4(진짜)\5 - 4.cpp(251): warning C4101: 'oldbit4' :참조되지 않은 지역 변수입니다.
+  5 - 4(진짜).vcxproj -> C:\Users\김우빈\source\repos\5 - 4(진짜)\Debug\5 - 4(진짜).exe
